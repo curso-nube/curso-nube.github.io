@@ -5,9 +5,27 @@
     <description>Computación en Nube para el centro de provesores</description>
     <link>http://curso-nube.github.io/</link>
     <atom:link href="http://curso-nube.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Nov 2014 13:27:51 +0100</pubDate>
-    <lastBuildDate>Sun, 23 Nov 2014 13:27:51 +0100</lastBuildDate>
+    <pubDate>Tue, 25 Nov 2014 10:49:30 +0100</pubDate>
+    <lastBuildDate>Tue, 25 Nov 2014 10:49:30 +0100</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
+    
+      <item>
+        <title>Software Libre</title>
+        <description>&lt;hr /&gt;
+&lt;p&gt;layout: post
+title:  “Introducción al software libre”
+date:   2014-11-25 10:00:00
+categories: admin update software-libre
+–&lt;/p&gt;
+
+&lt;p&gt;Hoy vamos a hablar de software libre&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Nov 2014 00:00:00 +0100</pubDate>
+        <link>http://curso-nube.github.io/2014/11/25/software-libre/</link>
+        <guid isPermaLink="true">http://curso-nube.github.io/2014/11/25/software-libre/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Bienvenido al curso</title>
