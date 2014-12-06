@@ -5,25 +5,68 @@
     <description>Computación en Nube para el centro de provesores</description>
     <link>http://curso-nube.github.io/</link>
     <atom:link href="http://curso-nube.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Nov 2014 10:49:30 +0100</pubDate>
-    <lastBuildDate>Tue, 25 Nov 2014 10:49:30 +0100</lastBuildDate>
-    <generator>Jekyll v2.1.0</generator>
+    <pubDate>Sat, 06 Dec 2014 10:26:02 +0100</pubDate>
+    <lastBuildDate>Sat, 06 Dec 2014 10:26:02 +0100</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Software Libre</title>
-        <description>&lt;hr /&gt;
-&lt;p&gt;layout: post
-title:  “Introducción al software libre”
-date:   2014-11-25 10:00:00
-categories: admin update software-libre
-–&lt;/p&gt;
+        <title>Introducción a Javascript</title>
+        <description>&lt;p&gt;En la clase del día 2 de diciembre veremos las nociones básicas de Javascript.&lt;/p&gt;
 
-&lt;p&gt;Hoy vamos a hablar de software libre&lt;/p&gt;
+&lt;p&gt;Aunque el tutorial está especialmente enfocado a la ejecución de Javascript en el navegador,
+todo lo relacionado con sintaxis, funciones, objetos y JSON es perfectamente aplicable a la ejecución con node.js
+en un servidor.&lt;/p&gt;
+
+&lt;p&gt;Podéis acceder al tutorial, incluyendo los ejemplos, en &lt;a href=&quot;http://vrivas.github.io/javascript-2014.zip&quot;&gt;este enlace&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 Nov 2014 00:00:00 +0100</pubDate>
-        <link>http://curso-nube.github.io/2014/11/25/software-libre/</link>
-        <guid isPermaLink="true">http://curso-nube.github.io/2014/11/25/software-libre/</guid>
+        <pubDate>Tue, 02 Dec 2014 13:10:20 +0100</pubDate>
+        <link>http://curso-nube.github.io/lenguajes/tutoriales/2014/12/02/javascript/</link>
+        <guid isPermaLink="true">http://curso-nube.github.io/lenguajes/tutoriales/2014/12/02/javascript/</guid>
         
+        
+        <category>lenguajes</category>
+        
+        <category>tutoriales</category>
+        
+      </item>
+    
+      <item>
+        <title>Introducción al sistema de control de fuentes git</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://psicobyte.github.io&quot;&gt;Ángel Pablo Hinojosa&lt;/a&gt; impartirá esta
+clase, y hablará de
+&lt;a href=&quot;https://github.com/psicobyte/Taller-de-Git&quot;&gt;&lt;code&gt;git&lt;/code&gt;&lt;/a&gt;, el estándar
+actual en control de fuentes.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Nov 2014 11:00:00 +0100</pubDate>
+        <link>http://curso-nube.github.io/control-fuentes/git/software-libre/2014/11/27/git/</link>
+        <guid isPermaLink="true">http://curso-nube.github.io/control-fuentes/git/software-libre/2014/11/27/git/</guid>
+        
+        
+        <category>control-fuentes</category>
+        
+        <category>git</category>
+        
+        <category>software-libre</category>
+        
+      </item>
+    
+      <item>
+        <title>Introducción al software libre</title>
+        <description>&lt;p&gt;Hoy vamos a hablar de software libre, por la importancia que tiene en
+la nube y porque se ha considerado la &lt;em&gt;killer application&lt;/em&gt; del
+mismo. En
+&lt;a href=&quot;http://jj.github.io/sl-cc&quot;&gt;esta presentación, &lt;em&gt;Software libre para aplicaciones nubosas&lt;/em&gt;&lt;/a&gt;, se da una visión general del mismo y porqué es interesante conocerlo para trabajar en la nube. &lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Nov 2014 11:00:00 +0100</pubDate>
+        <link>http://curso-nube.github.io/admin/update/software-libre/2014/11/25/software-libre/</link>
+        <guid isPermaLink="true">http://curso-nube.github.io/admin/update/software-libre/2014/11/25/software-libre/</guid>
+        
+        
+        <category>admin</category>
+        
+        <category>update</category>
+        
+        <category>software-libre</category>
         
       </item>
     

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Curso de computación nube</title>
+  <id></id>
+  <link href="" />
+  <link href="/atom.xml" rel="self" />
+  <updated>2014-12-06T10:26:02+01:00</updated>
+  <rights>Copyright 2014, JJ Merelo</rights>
+  <author>
+    <name>JJ Merelo</name>
+  </author>
+  
+    <entry>
+      <title>Introducción a Javascript</title>
+      <link href="/lenguajes/tutoriales/2014/12/02/javascript/" />
+      <summary type="html">&lt;p&gt;En la clase del día 2 de diciembre veremos las nociones básicas de Javascript.&lt;/p&gt;
+
+&lt;p&gt;Aunque el tutorial está especialmente enfocado a la ejecución de Javascript en el navegador,
+todo lo relacionado con sintaxis, funciones, objetos y JSON es perfectamente aplicable a la ejecución con node.js
+en un servidor.&lt;/p&gt;
+
+&lt;p&gt;Podéis acceder al tutorial, incluyendo los ejemplos, en &lt;a href=&quot;http://vrivas.github.io/javascript-2014.zip&quot;&gt;este enlace&lt;/a&gt;&lt;/p&gt;
+</summary>
+      <id>/lenguajes/tutoriales/2014/12/02/javascript/</id>
+      <updated>2014-12-02T13:10:20+01:00</updated>
+      <author>
+        <name>JJ Merelo</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>Introducción al sistema de control de fuentes git</title>
+      <link href="/control-fuentes/git/software-libre/2014/11/27/git/" />
+      <summary type="html">&lt;p&gt;&lt;a href=&quot;http://psicobyte.github.io&quot;&gt;Ángel Pablo Hinojosa&lt;/a&gt; impartirá esta
+clase, y hablará de
+&lt;a href=&quot;https://github.com/psicobyte/Taller-de-Git&quot;&gt;&lt;code&gt;git&lt;/code&gt;&lt;/a&gt;, el estándar
+actual en control de fuentes.&lt;/p&gt;
+</summary>
+      <id>/control-fuentes/git/software-libre/2014/11/27/git/</id>
+      <updated>2014-11-27T11:00:00+01:00</updated>
+      <author>
+        <name>JJ Merelo</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>Introducción al software libre</title>
+      <link href="/admin/update/software-libre/2014/11/25/software-libre/" />
+      <summary type="html">&lt;p&gt;Hoy vamos a hablar de software libre, por la importancia que tiene en
+la nube y porque se ha considerado la &lt;em&gt;killer application&lt;/em&gt; del
+mismo. En
+&lt;a href=&quot;http://jj.github.io/sl-cc&quot;&gt;esta presentación, &lt;em&gt;Software libre para aplicaciones nubosas&lt;/em&gt;&lt;/a&gt;, se da una visión general del mismo y porqué es interesante conocerlo para trabajar en la nube. &lt;/p&gt;
+</summary>
+      <id>/admin/update/software-libre/2014/11/25/software-libre/</id>
+      <updated>2014-11-25T11:00:00+01:00</updated>
+      <author>
+        <name>JJ Merelo</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>Bienvenido al curso</title>
+      <link href="/admin/update/saludo/2014/11/23/bienvenido-al-curso/" />
+      <summary type="html">&lt;p&gt;Bienvenidos al &lt;a href=&quot;http://curso-nube.github.io&quot;&gt;curso&lt;/a&gt;. Usaremos esta página para colgar materiales y para llevar un diario de la asignatura.&lt;/p&gt;
+
+&lt;p&gt;El curso se imparte lunes y jueves en el &lt;a href=&quot;http://www.cepjaen.es/&quot;&gt;CEP de Jaén&lt;/a&gt; de 16:30 a 20:30. &lt;/p&gt;
+
+</summary>
+      <id>/admin/update/saludo/2014/11/23/bienvenido-al-curso/</id>
+      <updated>2014-11-23T13:10:20+01:00</updated>
+      <author>
+        <name>JJ Merelo</name>
+      </author>
+    </entry>
+  
+</feed>
