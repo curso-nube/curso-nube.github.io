@@ -5,12 +5,12 @@
     <description>Computación en Nube para el centro de provesores</description>
     <link>http://curso-nube.github.io/</link>
     <atom:link href="http://curso-nube.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Dec 2014 07:53:59 +0100</pubDate>
-    <lastBuildDate>Tue, 09 Dec 2014 07:53:59 +0100</lastBuildDate>
+    <pubDate>Tue, 09 Dec 2014 07:56:56 +0100</pubDate>
+    <lastBuildDate>Tue, 09 Dec 2014 07:56:56 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Bienvenido al curso</title>
+        <title>Desarrollo basado en pruebas: TDD</title>
         <description>&lt;p&gt;Yendo hacia &lt;em&gt;abajo&lt;/em&gt; en las capas de la computación nube nos encontramos con el PaaS y a este nivel se trata de hacer pruebas y despliegues en la nube. Previamente, hay que aprender cómo va el &lt;a href=&quot;http://jj.github.io/desarrollo-basado-pruebas/&quot;&gt;desarrollo basado en pruebas&lt;/a&gt;, un sistema por el cual este despliegue se puede hacer de forma automática, eficiente y segura.&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 Dec 2014 17:30:00 +0100</pubDate>
