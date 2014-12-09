@@ -4,15 +4,27 @@
   <id></id>
   <link href="" />
   <link href="/atom.xml" rel="self" />
-  <updated>2014-12-09T07:36:23+01:00</updated>
+  <updated>2014-12-09T07:53:59+01:00</updated>
   <rights>Copyright 2014, JJ Merelo</rights>
   <author>
     <name>JJ Merelo</name>
   </author>
   
     <entry>
+      <title>Bienvenido al curso</title>
+      <link href="/test/tdd/broccoli/gulp/grunt/continuous%20integration/ic/ci/makefile/build%20tools/deployment/despliegue/2014/12/09/desarrollo-basado-en-pruebas/" />
+      <summary type="html">&lt;p&gt;Yendo hacia &lt;em&gt;abajo&lt;/em&gt; en las capas de la computación nube nos encontramos con el PaaS y a este nivel se trata de hacer pruebas y despliegues en la nube. Previamente, hay que aprender cómo va el &lt;a href=&quot;http://jj.github.io/desarrollo-basado-pruebas/&quot;&gt;desarrollo basado en pruebas&lt;/a&gt;, un sistema por el cual este despliegue se puede hacer de forma automática, eficiente y segura.&lt;/p&gt;
+</summary>
+      <id>/test/tdd/broccoli/gulp/grunt/continuous%20integration/ic/ci/makefile/build%20tools/deployment/despliegue/2014/12/09/desarrollo-basado-en-pruebas/</id>
+      <updated>2014-12-09T17:30:00+01:00</updated>
+      <author>
+        <name>JJ Merelo</name>
+      </author>
+    </entry>
+  
+    <entry>
       <title>Software como Servicio: Google Apps Script</title>
-      <link href="/lenguajes/tutoriales/google/drive/gas/2014/12/04/google-apps-script/" />
+      <link href="/lenguajes/tutoriales/google%20drive/gas/2014/12/04/google-apps-script/" />
       <summary type="html">&lt;p&gt;&lt;em&gt;Google Apps Script&lt;/em&gt; es el &lt;em&gt;lenguaje de macros&lt;/em&gt; de las aplicaciones de
 Google. Es JavaScript con un modelo de objetos específico y que
 permite acceso, previo permiso, a los documentos contenidos en Google
@@ -21,7 +33,7 @@ Drive. En
 explicamos cómo crear un &lt;em&gt;script&lt;/em&gt; básico que accede a los documentos
 en el Drive y cómo trabajar con documentos específicos.  &lt;/p&gt;
 </summary>
-      <id>/lenguajes/tutoriales/google/drive/gas/2014/12/04/google-apps-script/</id>
+      <id>/lenguajes/tutoriales/google%20drive/gas/2014/12/04/google-apps-script/</id>
       <updated>2014-12-04T17:30:00+01:00</updated>
       <author>
         <name>JJ Merelo</name>
