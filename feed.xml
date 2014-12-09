@@ -5,9 +5,36 @@
     <description>Computación en Nube para el centro de provesores</description>
     <link>http://curso-nube.github.io/</link>
     <atom:link href="http://curso-nube.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Dec 2014 10:26:02 +0100</pubDate>
-    <lastBuildDate>Sat, 06 Dec 2014 10:26:02 +0100</lastBuildDate>
+    <pubDate>Tue, 09 Dec 2014 07:36:23 +0100</pubDate>
+    <lastBuildDate>Tue, 09 Dec 2014 07:36:23 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Software como Servicio: Google Apps Script</title>
+        <description>&lt;p&gt;&lt;em&gt;Google Apps Script&lt;/em&gt; es el &lt;em&gt;lenguaje de macros&lt;/em&gt; de las aplicaciones de
+Google. Es JavaScript con un modelo de objetos específico y que
+permite acceso, previo permiso, a los documentos contenidos en Google
+Drive. En
+&lt;a href=&quot;http://jj.github.io/tuto-google-apps/&quot;&gt;este tutorial de Google Apps&lt;/a&gt;
+explicamos cómo crear un &lt;em&gt;script&lt;/em&gt; básico que accede a los documentos
+en el Drive y cómo trabajar con documentos específicos.  &lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Dec 2014 17:30:00 +0100</pubDate>
+        <link>http://curso-nube.github.io/lenguajes/tutoriales/google/drive/gas/2014/12/04/google-apps-script/</link>
+        <guid isPermaLink="true">http://curso-nube.github.io/lenguajes/tutoriales/google/drive/gas/2014/12/04/google-apps-script/</guid>
+        
+        
+        <category>lenguajes</category>
+        
+        <category>tutoriales</category>
+        
+        <category>google</category>
+        
+        <category>drive</category>
+        
+        <category>gas</category>
+        
+      </item>
     
       <item>
         <title>Introducción a Javascript</title>

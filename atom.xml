@@ -4,11 +4,29 @@
   <id></id>
   <link href="" />
   <link href="/atom.xml" rel="self" />
-  <updated>2014-12-06T10:26:02+01:00</updated>
+  <updated>2014-12-09T07:36:23+01:00</updated>
   <rights>Copyright 2014, JJ Merelo</rights>
   <author>
     <name>JJ Merelo</name>
   </author>
+  
+    <entry>
+      <title>Software como Servicio: Google Apps Script</title>
+      <link href="/lenguajes/tutoriales/google/drive/gas/2014/12/04/google-apps-script/" />
+      <summary type="html">&lt;p&gt;&lt;em&gt;Google Apps Script&lt;/em&gt; es el &lt;em&gt;lenguaje de macros&lt;/em&gt; de las aplicaciones de
+Google. Es JavaScript con un modelo de objetos específico y que
+permite acceso, previo permiso, a los documentos contenidos en Google
+Drive. En
+&lt;a href=&quot;http://jj.github.io/tuto-google-apps/&quot;&gt;este tutorial de Google Apps&lt;/a&gt;
+explicamos cómo crear un &lt;em&gt;script&lt;/em&gt; básico que accede a los documentos
+en el Drive y cómo trabajar con documentos específicos.  &lt;/p&gt;
+</summary>
+      <id>/lenguajes/tutoriales/google/drive/gas/2014/12/04/google-apps-script/</id>
+      <updated>2014-12-04T17:30:00+01:00</updated>
+      <author>
+        <name>JJ Merelo</name>
+      </author>
+    </entry>
   
     <entry>
       <title>Introducción a Javascript</title>
