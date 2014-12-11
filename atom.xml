@@ -4,11 +4,35 @@
   <id></id>
   <link href="" />
   <link href="/atom.xml" rel="self" />
-  <updated>2014-12-09T07:56:56+01:00</updated>
+  <updated>2014-12-11T15:07:19+01:00</updated>
   <rights>Copyright 2014, JJ Merelo</rights>
   <author>
     <name>JJ Merelo</name>
   </author>
+  
+    <entry>
+      <title>PaaS: Plataformas como servicio</title>
+      <link href="/test/tdd/ic/ci/makefile/build%20tools/deployment/despliegue/paas/heroku/2014/12/11/uso-de-plataformas-como-servicio/" />
+      <summary type="html">&lt;p&gt;Continuamos nuestro viaje descendente entre las capas de la nube y bajamos a las Plataformas como Servicio (&lt;em&gt;PaaS&lt;/em&gt;, &lt;em&gt;Platform as a service&lt;/em&gt;), donde se proporcionan una serie de servicios configurables, más allá del acceso a objetos preconfigurados que proporciona el SaaS. En &lt;a href=&quot;http://jj.github.io/trabajando-con-paas/&quot;&gt;la sesión de Plataformas como Servicio&lt;/a&gt; veremos cómo crear una aplicación simple que proporcione un interfaz REST y cómo desplegarla en &lt;a href=&quot;http://heroku.com&quot;&gt;Heroku&lt;/a&gt;&lt;/p&gt;
+</summary>
+      <id>/test/tdd/ic/ci/makefile/build%20tools/deployment/despliegue/paas/heroku/2014/12/11/uso-de-plataformas-como-servicio/</id>
+      <updated>2014-12-11T17:30:00+01:00</updated>
+      <author>
+        <name>JJ Merelo</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>Desarrollo basado en pruebas: TDD</title>
+      <link href="/test/tdd/broccoli/gulp/grunt/continuous%20integration/ic/ci/makefile/build%20tools/deployment/despliegue/2014/12/09/uso-de-plataformas-como-servicio/" />
+      <summary type="html">&lt;p&gt;Yendo hacia &lt;em&gt;abajo&lt;/em&gt; en las capas de la computación nube nos encontramos con el PaaS y a este nivel se trata de hacer pruebas y despliegues en la nube. Previamente, hay que aprender cómo va el &lt;a href=&quot;http://jj.github.io/desarrollo-basado-pruebas/&quot;&gt;desarrollo basado en pruebas&lt;/a&gt;, un sistema por el cual este despliegue se puede hacer de forma automática, eficiente y segura.&lt;/p&gt;
+</summary>
+      <id>/test/tdd/broccoli/gulp/grunt/continuous%20integration/ic/ci/makefile/build%20tools/deployment/despliegue/2014/12/09/uso-de-plataformas-como-servicio/</id>
+      <updated>2014-12-09T17:30:00+01:00</updated>
+      <author>
+        <name>JJ Merelo</name>
+      </author>
+    </entry>
   
     <entry>
       <title>Desarrollo basado en pruebas: TDD</title>
