@@ -5,9 +5,30 @@
     <description>Computación en Nube para el centro de provesores</description>
     <link>http://curso-nube.github.io/</link>
     <atom:link href="http://curso-nube.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Dec 2014 07:41:14 +0100</pubDate>
-    <lastBuildDate>Fri, 12 Dec 2014 07:41:14 +0100</lastBuildDate>
+    <pubDate>Thu, 08 Jan 2015 07:35:51 +0100</pubDate>
+    <lastBuildDate>Thu, 08 Jan 2015 07:35:51 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>DBaaS: Plataformas como servicio</title>
+        <description>&lt;p&gt;Una de las características de la programación en la nube es la modularización de los diferentes aspectos de un programa, diferenciando entre el almacenamiento, el cálculo diferido, la comunicación y otros aspectos; cada uno de estos puede hacerlo un proveedor diferente y, en particular, el almacenamiento de datos es la tarea de las &lt;a href=&quot;http://jj.github.io/dbaas&quot;&gt;bases de datos como servicio o &lt;em&gt;DBaaS&lt;/em&gt;&lt;/a&gt;, dentro de las cuales nos concentraremos específicamente en bases de datos tipo NoSQL como &lt;a href=&quot;http://redis.io&quot;&gt;Redis&lt;/a&gt;. &lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Dec 2014 17:30:00 +0100</pubDate>
+        <link>http://curso-nube.github.io/dbaas/redis/nosql/paas/saas/2014/12/16/uso-bases-de-datos-como-servicio/</link>
+        <guid isPermaLink="true">http://curso-nube.github.io/dbaas/redis/nosql/paas/saas/2014/12/16/uso-bases-de-datos-como-servicio/</guid>
+        
+        
+        <category>dbaas</category>
+        
+        <category>redis</category>
+        
+        <category>nosql</category>
+        
+        <category>paas</category>
+        
+        <category>saas</category>
+        
+      </item>
     
       <item>
         <title>PaaS: Plataformas como servicio</title>
