@@ -5,12 +5,12 @@
     <description>Computación en Nube para el centro de provesores</description>
     <link>http://curso-nube.github.io/</link>
     <atom:link href="http://curso-nube.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Jan 2015 07:35:51 +0100</pubDate>
-    <lastBuildDate>Thu, 08 Jan 2015 07:35:51 +0100</lastBuildDate>
+    <pubDate>Thu, 08 Jan 2015 07:38:13 +0100</pubDate>
+    <lastBuildDate>Thu, 08 Jan 2015 07:38:13 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>DBaaS: Plataformas como servicio</title>
+        <title>DBaaS: Bases de datos como servicio</title>
         <description>&lt;p&gt;Una de las características de la programación en la nube es la modularización de los diferentes aspectos de un programa, diferenciando entre el almacenamiento, el cálculo diferido, la comunicación y otros aspectos; cada uno de estos puede hacerlo un proveedor diferente y, en particular, el almacenamiento de datos es la tarea de las &lt;a href=&quot;http://jj.github.io/dbaas&quot;&gt;bases de datos como servicio o &lt;em&gt;DBaaS&lt;/em&gt;&lt;/a&gt;, dentro de las cuales nos concentraremos específicamente en bases de datos tipo NoSQL como &lt;a href=&quot;http://redis.io&quot;&gt;Redis&lt;/a&gt;. &lt;/p&gt;
 </description>
         <pubDate>Tue, 16 Dec 2014 17:30:00 +0100</pubDate>

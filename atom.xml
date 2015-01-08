@@ -4,14 +4,14 @@
   <id></id>
   <link href="" />
   <link href="/atom.xml" rel="self" />
-  <updated>2015-01-08T07:35:51+01:00</updated>
+  <updated>2015-01-08T07:38:13+01:00</updated>
   <rights>Copyright 2014, JJ Merelo</rights>
   <author>
     <name>JJ Merelo</name>
   </author>
   
     <entry>
-      <title>DBaaS: Plataformas como servicio</title>
+      <title>DBaaS: Bases de datos como servicio</title>
       <link href="/dbaas/redis/nosql/paas/saas/2014/12/16/uso-bases-de-datos-como-servicio/" />
       <summary type="html">&lt;p&gt;Una de las características de la programación en la nube es la modularización de los diferentes aspectos de un programa, diferenciando entre el almacenamiento, el cálculo diferido, la comunicación y otros aspectos; cada uno de estos puede hacerlo un proveedor diferente y, en particular, el almacenamiento de datos es la tarea de las &lt;a href=&quot;http://jj.github.io/dbaas&quot;&gt;bases de datos como servicio o &lt;em&gt;DBaaS&lt;/em&gt;&lt;/a&gt;, dentro de las cuales nos concentraremos específicamente en bases de datos tipo NoSQL como &lt;a href=&quot;http://redis.io&quot;&gt;Redis&lt;/a&gt;. &lt;/p&gt;
 </summary>
