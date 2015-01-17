@@ -5,9 +5,36 @@
     <description>Computación en Nube para el centro de provesores</description>
     <link>http://curso-nube.github.io/</link>
     <atom:link href="http://curso-nube.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Jan 2015 07:38:13 +0100</pubDate>
-    <lastBuildDate>Thu, 08 Jan 2015 07:38:13 +0100</lastBuildDate>
+    <pubDate>Sat, 17 Jan 2015 12:29:15 +0100</pubDate>
+    <lastBuildDate>Sat, 17 Jan 2015 12:29:15 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Infraestructura como servicio</title>
+        <description>&lt;p&gt;Para terminar el curso, esta &lt;a href=&quot;http://jj.github.io/Infraestructura-como-servicio&quot;&gt;introducción a las herramientas de configuración y orquestación automática&lt;/a&gt;. Vemos herramientas como Chef y Ansible, junto con Vagrant, que permiten configurar automáticamente a los recursos virtuales de forma que, sobre ellos, se puedan desplegar también de forma automática las aplicaciones.&lt;/p&gt;
+
+&lt;p&gt;Y con esto termina el curso. No descarto seguir poniendo posts en este blog, pero serán más puntuales y con trucos o consejos. &lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Dec 2014 17:30:00 +0100</pubDate>
+        <link>http://curso-nube.github.io/iaas/chef/ansible/puppet/vagrant/paas/saas/2014/12/18/infraestructura-como-servicio/</link>
+        <guid isPermaLink="true">http://curso-nube.github.io/iaas/chef/ansible/puppet/vagrant/paas/saas/2014/12/18/infraestructura-como-servicio/</guid>
+        
+        
+        <category>iaas</category>
+        
+        <category>chef</category>
+        
+        <category>ansible</category>
+        
+        <category>puppet</category>
+        
+        <category>vagrant</category>
+        
+        <category>paas</category>
+        
+        <category>saas</category>
+        
+      </item>
     
       <item>
         <title>DBaaS: Bases de datos como servicio</title>
